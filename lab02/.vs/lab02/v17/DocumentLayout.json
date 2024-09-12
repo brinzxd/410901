@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zdano\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Programming\\My labs\\InVS\\lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56904D78-BA0B-4D0A-9C71-3751CF25A451}|lab02.vcxproj|C:\\Users\\zdano\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Programming\\My labs\\InVS\\lab02\\lab02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56904D78-BA0B-4D0A-9C71-3751CF25A451}|lab02.vcxproj|solutionrelative:lab02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab02.cpp",
+              "DocumentMoniker": "C:\\Users\\zdano\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Programming\\My labs\\InVS\\lab02\\lab02.cpp",
+              "RelativeDocumentMoniker": "lab02.cpp",
+              "ToolTip": "C:\\Users\\zdano\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Programming\\My labs\\InVS\\lab02\\lab02.cpp",
+              "RelativeToolTip": "lab02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T14:43:14.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
